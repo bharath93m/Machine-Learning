@@ -2,7 +2,7 @@
 
 Packages Used: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn
 
-Steps Involved:
+Steps Involved:</br>
 •	Data Acquisition</br>
 •	Exploratory Data Analysis</br>
 •	Data Cleaning – Training Data</br>
