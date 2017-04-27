@@ -1,4 +1,4 @@
-#Cancer prediction using Logistic Regression and Naive Bayes
+# Cancer prediction using Logistic Regression and Naive Bayes
 
 Packages Used: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn
 
